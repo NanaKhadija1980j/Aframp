@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dev-frontend",
+    "fix/640-security-no-csrf-protection-on-sensitive-post-routes-proxied-through-next-js-rewrite",
+    "fix/660-testing-add-tests-for-component-form-validation-and-ozow-redirect",
+    "fix/663-docs-add-jsdoc-to-all-exported-functions-in-lib-withdraw-ts",
+    "fix/664-docs-add-inline-comments-explaining-the-stellar-stroop-unit-in-all-amount-handling-files",
+    "main",
+    "origin",
+    "release-please--branches--main--components--aframp"
+  ],
+  "parent": {
+    "dev-frontend": "main",
+    "fix/640-security-no-csrf-protection-on-sensitive-post-routes-proxied-through-next-js-rewrite": "main",
+    "fix/660-testing-add-tests-for-component-form-validation-and-ozow-redirect": "main",
+    "fix/663-docs-add-jsdoc-to-all-exported-functions-in-lib-withdraw-ts": "main",
+    "fix/664-docs-add-inline-comments-explaining-the-stellar-stroop-unit-in-all-amount-handling-files": "main",
+    "main": null,
+    "origin": "main",
+    "release-please--branches--main--components--aframp": "main"
+  },
+  "order": [
+    "main",
+    "dev-frontend",
+    "fix/640-security-no-csrf-protection-on-sensitive-post-routes-proxied-through-next-js-rewrite",
+    "fix/660-testing-add-tests-for-component-form-validation-and-ozow-redirect",
+    "fix/663-docs-add-jsdoc-to-all-exported-functions-in-lib-withdraw-ts",
+    "fix/664-docs-add-inline-comments-explaining-the-stellar-stroop-unit-in-all-amount-handling-files",
+    "origin",
+    "release-please--branches--main--components--aframp"
+  ]
+}
