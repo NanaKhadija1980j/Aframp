@@ -1,10 +1,7 @@
 node_modules
-.env
-.env.local
 .next
 dist
 build
-.vscode
 .DS_Store
 requirements.md
 .vercel
@@ -13,3 +10,4 @@ coverage/
 .claude 
 tsconfig.tsbuildinfo
 designs
+config.bat
