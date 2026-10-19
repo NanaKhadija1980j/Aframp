@@ -113,4 +113,4 @@ const withAnalyzer = withBundleAnalyzer({
   openAnalyzer: false,
 })
 
-export default withSentryConfig(withAnalyzer(configWithPWA))
+export default withSentryConfig(withAnalyzer(configWithPWA));
